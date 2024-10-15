@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: [speedyfriend433](https://github.com/speedyfriend433)
-- **Email**: your-email@example.com
+- **Email**: speedyfriend433@gmail.com
 
 ## Acknowledgments
 
